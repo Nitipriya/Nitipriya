@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structure and Algorithms
 - 🌱 I’m currently learning Cpp
 - 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me nitipriya915@gmail.com
+- 📫 How to reach me priyaniti915@gmail.com
 - 😄 Pronouns: she/her
 
 https://www.linkedin.com/in/niti-priya/
