@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitipriya
 - 👀 I’m interested in Data Structure and Algorithms
-- 🌱 I’m currently learning Cpp
+- 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me priyaniti915@gmail.com
 - 😄 Pronouns: she/her
