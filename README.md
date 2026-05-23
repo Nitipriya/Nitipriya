@@ -12,10 +12,10 @@
 - 🔍 Explainable AI using SHAP and interpretable ML
 
 ## 💻 Tech Stack
-**Languages:** Python, Java, C/C++, SQL, JavaScript  
+**Languages:** Python, Java, C/C++, SQL, JavaScript, HTML/CSS, React  
 **ML/AI:** PyTorch, TensorFlow, Scikit-learn, PyCaret  
 **Tools:** FastAPI, React, Git, Azure, Jupyter Notebook  
-**Domains:** Generative AI, NLP, Forecasting, RAG/RAT Systems, Conversational AI
+**Domains:** Generative AI, NLP, Forecasting, RAG/RAT Systems, Conversational AI, Software Engineering
 
 ## 📈 Experience Highlights
 - Improved AI forecasting pipelines on 100K+ record datasets
